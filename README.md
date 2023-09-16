@@ -15,25 +15,15 @@ xxx
 
 Rules
 
-DOs
+DOs     DON'Ts
 
-xxx
+xxx     xxx
 
-xxx
+xxx     xxx
 
-xxx
+xxx     xxx
 
-xxx
-
-DON'Ts
-
-xxx
-
-xxx
-
-xxx
-
-xxx
+xxx     xxx
 
 Contact 
 
